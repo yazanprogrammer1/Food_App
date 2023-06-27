@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Best brunch</string>
+    <string name="welcome">Welcome</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="categury">
+        <item>Pizza</item>
+        <item>Burger</item>
+        <item>sweet</item>
+    </string-array>
+    <string name="title_activity_maps_rest">Maps_Rest_Activity</string>
+    <string name="title_activity_maps_user">Maps_User_Activity</string>
+</resources>
